@@ -21,4 +21,5 @@ int main()
 	b = a ^ b;
 	a = a ^ b;
 	printf("第二种方式交换后：a = %d,b = %d\n", a, b);
+	return 0;
 }
